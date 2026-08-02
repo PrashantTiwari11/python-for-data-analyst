@@ -191,3 +191,11 @@ print(fruits)
 Output : 
 ['Apple', 'Banana', 'Orange', 'Mango']
 
+INSERT () :- INSERT DATA AT ANY POSITION.
+SYNTAX : - list.insert(index,value)
+EX:- fruits = [“Apple”, “Orange”]
+fruits.insert(1, “Banana”)
+Print (fruits)
+Output :- 
+['Apple', 'Banana', 'Orange']
+
