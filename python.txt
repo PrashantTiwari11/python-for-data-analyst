@@ -199,3 +199,11 @@ Print (fruits)
 Output :- 
 ['Apple', 'Banana', 'Orange']
 
+REMOVE () :- IT DELETE VALUES .
+EX:- fruits = ["Apple","Banana","Orange"]
+fruits.remove("Banana")
+print(fruits)
+OUTPUT :- 
+['Apple', 'Orange'] 
+
+
