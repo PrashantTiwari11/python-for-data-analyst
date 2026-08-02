@@ -175,3 +175,19 @@ LIST vs STRING :-
 LIST MUTABLE WHILE STRING IS IMMUTABLE
 STRING IS COLLECTION OF CHARACTERS WHILE LIST IS COLLECTION OF ANY OBJECTS
 STRING WROTE INSIDE THE QUOTES “” WHILE LIST IS WRITTEN INSIDE SQUARE BRACKET [] 
+ 
+                →← LIST METHODS →← 
+APPEND () :- IT ADD AN ELEMENT IN THE LIST AT END .
+EX:- fruits = ["Apple", "Banana"]
+fruits.append("Orange")
+print(fruits)
+Output:
+['Apple', 'Banana', 'Orange']
+
+EXTEND () :- IT ADDS MULTIPLE ELEMENTS IN LIST AT END .
+EX:- fruits = ["Apple", "Banana"]
+fruits.extend(["Orange", "Mango"])
+print(fruits)
+Output : 
+['Apple', 'Banana', 'Orange', 'Mango']
+
