@@ -214,5 +214,28 @@ print(numbers)
 OUTPUT :- 
 [10,30]
 
+🎯 remove() vs pop()
+REMOVE() FUNCTION REMOVE FROM VALUE WHILE POP() FUNCTION REMOVE FROM INDEX 
+REMOVE() DOESN’T RETURN ANY VALUE WHILE POP() RETURN REMOVED ITEM.
+
+CLEAR() :- IT WILL DELETE EVERYTHING. 
+EX:- 
+nums = [10,20,30]
+nums.clear()
+print(nums)
+OUTPUT :- 
+[]
+
+COPY () :- WHEN WE ARE COPYING ANYTHING 
+EX:-
+list1 = [10,20,30]
+list2 = list1.copy()
+— — —
+list2[0] = 100
+OUTPUT :- 
+list1 = [10,20,30]
+list2 = [100,20,30]
+
+
 
 
