@@ -236,6 +236,29 @@ OUTPUT :-
 list1 = [10,20,30]
 list2 = [100,20,30]
 
+SORT() :- SORTING IN THE GIVEN FORMAT.
+Ascending Sort : 
+EX:- nums = [50,20,90,10]
+nums.sort()
+print(nums)
+
+OUTPUT :- 
+[10,20,50,90]
+
+Descending Sort : 
+nums.sort(reverse=True)
+OUTPUT:- 
+[90,50,20,10]
+
+String Sorting : 
+EX:- fruits = ["Mango","Apple","Orange"]
+fruits.sort()
+print(fruits)
+
+OUTPUT :- 
+['Apple','Mango','Orange']
+
+
 
 
 
