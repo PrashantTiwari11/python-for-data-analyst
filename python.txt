@@ -258,6 +258,27 @@ print(fruits)
 OUTPUT :- 
 ['Apple','Mango','Orange']
 
+REVERSE() :- IT JUST REVERSE THE STRING.
+EX: nums=[10,20,30]
+nums.reverse()
+print(nums)
+OUTPUT :- 
+[30,20,10]
+
+NOTE:- nums[::-1] it gives new reversed view while reverse() just reversed the original list.
+
+COUNT() :- IT JUST COUNT THE VALUES.
+EX: nums=[10,20,20,30]
+print(nums.count(20))
+OUTPUT :- 
+2
+
+INDEX() :- THIS FUNCTION IS USED TO FIND THE INDEX OF ANY ELEMENT PRESENT IN THE LIST.
+EX:- fruits=["Apple","Banana","Orange"]
+print(fruits.index("Banana"))
+OUTPUT :- 
+1
+
 
 
 
