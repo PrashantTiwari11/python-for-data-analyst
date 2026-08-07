@@ -341,5 +341,33 @@ print(course)
 
 Tuple have only two methods , 1. count() & 2. index()
 
+→ Membership operators : Same as List. (in , not in)
+→ Built-In Functions : Same as List (len , min , max , sum)
 
+Nested Tuple : 
+Ex: matrix = (
+(1,2),
+(3,4)
+)
+Access : 
+print(matrix[1][0])
+Output : 
+3
+
+Tuple Conversion :-  
+List → Tuple
+Ex: 
+nums = [10,20,30]
+t = tuple(nums)
+print(t)
+Output : 
+(10,20,30)
+
+Tuple → List
+Ex:
+t = (10,20,30)
+nums = list(t)
+print (nums)
+Output: 
+[10,20,30]
 
