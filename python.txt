@@ -322,6 +322,24 @@ List uses [] but tuple uses ().
 List is slow while Tuple is faster.
 List need much memory but Tuple need less memory.
 
+How to create single element tuple : 
+num = (10) → wrong , because it is ‘int’ type of data
+num = (10,) → correct , now it is ‘tuple’ type of data
+
+→ Indexing : Same as List.
+→ Slicing : Same as List.
+
+→ Packing : 
+student = (“Prashant”,20, “BCA”)
+: Three values pack into a tuple.
+
+→ Unpacking : 
+name,age,course = student
+print(name)
+print(age)
+print(course)
+
+Tuple have only two methods , 1. count() & 2. index()
 
 
 
