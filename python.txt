@@ -307,6 +307,20 @@ MEMBERSHIP :- IT IS AN OPERATOR WHICH CHECKS THAT THE ASKED VALUE IS PRESENT INT
 TWO TYPES :- IN & NOT IN
 SYNTAX :- PRINT(“BANANA” IN FRUITS)
 
+→← Lecture 11 Tuples (Immutable Collections) →←
+
+Tuples :- Tuple is like List , it is also a collection . We can’t change elements once created . This property called “Immutable”.
+Example :- 
+fruits = (“Apple”, “Banana” , “Orange”)
+print(fruits)
+Output :- 
+(‘Apple’, ‘Banana’, ‘Orange’)
+
+List vs Tuple 
+List is mutable while tuple is immutable.
+List uses [] but tuple uses ().
+List is slow while Tuple is faster.
+List need much memory but Tuple need less memory.
 
 
 
