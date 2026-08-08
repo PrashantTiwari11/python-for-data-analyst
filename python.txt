@@ -371,3 +371,35 @@ print (nums)
 Output: 
 [10,20,30]
 
+→← Lecture 12 →← Sets in Python →← 
+
+Sets :- Set is a collection which is : 
+Unordered 
+Which doesn’t allow duplicate value
+It is mutable
+It does not support indexing
+It is made using curly brackets { }
+
+Example : 
+numbers = {10,20,30,40,50}
+print(numbers)
+
+→ Duplicate Values 
+numbers = {10,20,30,20,30}
+print(numbers)
+Output :- 
+{10,20,30} → Python automatically removes the duplicate values.
+
+Notes :- 
+List → duplicates allowed
+Tuple → duplicates allowed
+Set → duplicates not allowed
+
+→ Empty Set
+Example :- 
+my_set = {} → it is not an empty set , actually it is an empty dictionary.
+Correct form of empty set : 
+my_set = set()
+
+→ Indexing
+Set does not perform indexing operations because it is an unordered collection.
