@@ -438,3 +438,36 @@ print(numbers)
 
 → Indexing
 Set does not perform indexing operations because it is an unordered collection.
+
+→ clear() 
+It will clear the whole set.
+Example:
+numbers = {10,20,30,40}
+numbers.clear()
+print(numbers)
+
+→ Membership Operator : Same as list and tuple (in&not in)
+
+→ Set Operations 
+Suppose : 
+A = {1,2,3,4}
+B = {3,4,5,6}
+
+👍Union : Return unique elements from both sets.
+Example : print(A | B)
+Output : {1,2,3,4,5,6}
+Using Method : 
+print(A.union(B))
+
+👍Intersection : Return common elements from both sets.
+Example : print(A & B)
+Output : {3 , 4}
+Using Method : 
+print(A.intersection(B))
+
+👍Difference : Return elements which are present into A but don't present into B.
+Example : print(A - B)
+Output : {1,2}
+Reverse : print(B - A)
+Output : {5,6}
+
