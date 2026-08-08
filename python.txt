@@ -401,5 +401,40 @@ my_set = {} → it is not an empty set , actually it is an empty dictionary.
 Correct form of empty set : 
 my_set = set()
 
+→ add() 
+To add one element into the set use “add()”
+Example: 
+fruits = {“Apple” , “Banana”}
+fruits.add(“Orange”)
+print(fruits)
+
+→ update()
+To add multiple elements into the set use “update()”
+Example : 
+fruits = {“Apple” , “Banana”}
+fruits.update([“Orange”, “Mango” , “Guava”])
+print(fruits)
+
+→ remove()
+To remove any element from set use “remove()”
+Example : 
+fruits = {“Apple” , “Banana” , “Orange”}
+fruits.remove(“Banana”)
+print(fruits)
+
+Note:- If element does not exist remove will through error.
+
+→ discard()
+This is also used to remove elements from a set.
+The discard function does not throw an error if the element is not present into the set like remove().
+
+→ pop()
+The pop function removes one element from the set.
+Example : 
+numbers = {10,20,30,40,50}
+numbers.pop()
+print(numbers)
+
+
 → Indexing
 Set does not perform indexing operations because it is an unordered collection.
