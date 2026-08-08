@@ -504,4 +504,16 @@ Output : 6
 Example : numbers = {10,20,30,40}
 print(len(numbers)) | print(min(numbers)) | print(max(numbers)) 
 
+👍List → Set
+Example : 
+numbers = [10,20,30,40,30,20]
+unique_numbers = set(numbers)
+print(unique_numbers)
+Output : 
+{10,20,30,40}
 
+👍Set → List
+Example : 
+numbers = {10,20,30}
+my_list = list(numbers)
+print(my_list)
