@@ -609,3 +609,45 @@ Output :
 3
 4
 5
+
+→ for Loop vs while Loop
+Simple Rule → 
+FOR → → Known number of repetitions
+WHILE → → Condition-based repetition
+
+→ break :- It is used to stop the loop completely.
+Example : 
+for i in range(10):
+if i == 5:
+break
+print(i)
+
+→ continue :- It skips the current iteration.
+Example : 
+for i in range(5):
+if i ==3:
+continue
+print(i)
+Output :- 
+1,2,4,5
+
+→ pass :- “pass” means don’t do anything now . Means no output.
+
+→ Nested Loop ⭐ :- Loop inside Loop.
+Example ➖
+for i in range(3):
+for j in range(2):
+print (i,j)
+Output :- 
+0 0
+0 1
+1 0
+1 1
+2 0
+2 1
+→ Count :- 
+Syntax: 
+count = 0
+for item in collection:
+    if condition:
+        count += 1
