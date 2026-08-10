@@ -541,3 +541,35 @@ Example : - for i in range(5):
 👍range(start,stop) 
 Example :- for i in range(2, 6):
                      print(i)
+
+👍range(start,stop,step)
+Example :- for i in range(2,10,2):
+                  print(i)
+
+→ Reverse range() :- 
+Example : 
+for i in range(10,0,-1)
+print(i)
+Output :- It will print from 10 to 1.
+
+→ for Loop ➕ List 
+Example :- 
+subjects = [“Python” , “SQL” , “Excel” , “Power BI”]
+for subject in subjects : 
+print(subjects)
+Output :- 
+Python
+SQL
+Excel
+Power BI
+
+→ Square of List Elements :- 
+Example :- 
+numbers = [1,2,3,4,5]
+for num in numbers:
+print(num ** 2)
+Output :- 1
+4
+9
+16
+25
