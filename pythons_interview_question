@@ -39,3 +39,13 @@ Q5.sep aur end ka use kya hai?
 
 Q6.int("abc") chalega?
 Answer: ❌ Nahi, ValueError aayega.
+
+------SET - 4 ----
+Q1.Difference between = and ==?
+
+Q2.Difference between / and //?
+
+Q3.Difference between == and is?
+
+Q4.What is modulus operator?
+
