@@ -59,3 +59,5 @@ Q7.What is operator precedence?
 1. Loop kya hota hai?
 2. for aur while loop mein kya difference hai?
 3. range() kya karta hai?
+4. range(5) ka output kya hoga?
+5. break aur continue mein kya difference hai?
