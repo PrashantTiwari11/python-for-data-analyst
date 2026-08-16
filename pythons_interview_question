@@ -86,3 +86,5 @@ Q7.What is operator precedence?
 4. What is a lambda function?
 5. What are map(), filter(), and reduce() in Python?
 6. Can we Pass a function as an argument in Python?
+7. What are *args and **kwargs?
+8. How are arguments passed by value or by reference in Python?
