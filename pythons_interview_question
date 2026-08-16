@@ -84,3 +84,5 @@ Q7.What is operator precedence?
 2. Difference between for loop and while loop in Python.
 3. What is a break, continue and pass in Python? 
 4. What is a lambda function?
+5. What are map(), filter(), and reduce() in Python?
+6. Can we Pass a function as an argument in Python?
