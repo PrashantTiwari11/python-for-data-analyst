@@ -90,3 +90,5 @@ Q7.What is operator precedence?
 8. How are arguments passed by value or by reference in Python?
 9. What is a Variable Scope in Python?
 10. What is the LEGB rule in Python?
+11. What are the global and nonlocal keywords in Python?
+12. What is docstring in Python?
