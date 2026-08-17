@@ -92,3 +92,5 @@ Q7.What is operator precedence?
 10. What is the LEGB rule in Python?
 11. What are the global and nonlocal keywords in Python?
 12. What is docstring in Python?
+13. How can you concatenate two lists in Python?
+14. What is the difference between append() and extend()?
