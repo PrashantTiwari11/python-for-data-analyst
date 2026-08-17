@@ -96,3 +96,5 @@ Q7.What is operator precedence?
 14. What is the difference between append() and extend()?
 15. What is the difference between remove(), pop(), and del?
 16. What is List Comprehension? Give an Example.
+17. How is Exceptional handling done in Python?
+18. What are Modules and Packages in Python?
