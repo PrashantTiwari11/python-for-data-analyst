@@ -98,3 +98,5 @@ Q7.What is operator precedence?
 16. What is List Comprehension? Give an Example.
 17. How is Exceptional handling done in Python?
 18. What are Modules and Packages in Python?
+19. What is the purpose of if __name__ == "__main__" in Python?
+20. What is slicing in Python?
