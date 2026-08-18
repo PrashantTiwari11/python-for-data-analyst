@@ -108,3 +108,5 @@ Q7.What is operator precedence?
 4. What is the difference between a shallow copy and a deep copy?
 5. What are Iterators in Python?
 6. What are Magic (Dunder) Methods in Python?
+7. What are Generators in Python?
+8. Which sorting technique is used by sort() and sorted() functions of python?
