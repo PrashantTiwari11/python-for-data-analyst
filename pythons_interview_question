@@ -106,3 +106,5 @@ Q7.What is operator precedence?
 2. What is Dictionary Comprehension? Give an Example
 3. Is Tuple Comprehension possible in Python? If yes, how and if not why?
 4. What is the difference between a shallow copy and a deep copy?
+5. What are Iterators in Python?
+6. What are Magic (Dunder) Methods in Python?
