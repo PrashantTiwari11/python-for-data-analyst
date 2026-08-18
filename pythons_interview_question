@@ -104,3 +104,5 @@ Q7.What is operator precedence?
 ------Intermediate Python Interview Questions---------
 1. Differentiate between List and Tuple?
 2. What is Dictionary Comprehension? Give an Example
+3. Is Tuple Comprehension possible in Python? If yes, how and if not why?
+4. What is the difference between a shallow copy and a deep copy?
