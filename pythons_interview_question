@@ -110,3 +110,5 @@ Q7.What is operator precedence?
 6. What are Magic (Dunder) Methods in Python?
 7. What are Generators in Python?
 8. Which sorting technique is used by sort() and sorted() functions of python?
+9. What is the difference between sort() and sorted()?
+10. Does Python supports multiple Inheritance?
