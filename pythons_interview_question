@@ -132,3 +132,4 @@ Q7.What is operator precedence?
 28. What is the difference between @classmethod, @staticmethod and instance methods in Python?
 29. What are Pickling and Unpickling?
 30. What are Exception Groups in Python?
+31. What is a Context Manager in Python?
