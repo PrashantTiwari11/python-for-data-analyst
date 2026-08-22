@@ -130,5 +130,5 @@ Q7.What is operator precedence?
 26. What is the difference between __new__() and __init__()?
 27. What are Access Specifiers in Python?
 28. What is the difference between @classmethod, @staticmethod and instance methods in Python?
-2
+29. What are Pickling and Unpickling?
 3
